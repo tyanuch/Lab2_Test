@@ -1,0 +1,15 @@
+C:\Users\79833\source\repos\LabForTesting\LabForTesting\bin\Debug\net6.0\LabForTesting.exe
+C:\Users\79833\source\repos\LabForTesting\LabForTesting\bin\Debug\net6.0\LabForTesting.deps.json
+C:\Users\79833\source\repos\LabForTesting\LabForTesting\bin\Debug\net6.0\LabForTesting.runtimeconfig.json
+C:\Users\79833\source\repos\LabForTesting\LabForTesting\bin\Debug\net6.0\LabForTesting.dll
+C:\Users\79833\source\repos\LabForTesting\LabForTesting\bin\Debug\net6.0\LabForTesting.pdb
+C:\Users\79833\source\repos\LabForTesting\LabForTesting\obj\Debug\net6.0\LabForTesting.csproj.AssemblyReference.cache
+C:\Users\79833\source\repos\LabForTesting\LabForTesting\obj\Debug\net6.0\LabForTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79833\source\repos\LabForTesting\LabForTesting\obj\Debug\net6.0\LabForTesting.AssemblyInfoInputs.cache
+C:\Users\79833\source\repos\LabForTesting\LabForTesting\obj\Debug\net6.0\LabForTesting.AssemblyInfo.cs
+C:\Users\79833\source\repos\LabForTesting\LabForTesting\obj\Debug\net6.0\LabForTesting.csproj.CoreCompileInputs.cache
+C:\Users\79833\source\repos\LabForTesting\LabForTesting\obj\Debug\net6.0\LabForTesting.dll
+C:\Users\79833\source\repos\LabForTesting\LabForTesting\obj\Debug\net6.0\refint\LabForTesting.dll
+C:\Users\79833\source\repos\LabForTesting\LabForTesting\obj\Debug\net6.0\LabForTesting.pdb
+C:\Users\79833\source\repos\LabForTesting\LabForTesting\obj\Debug\net6.0\LabForTesting.genruntimeconfig.cache
+C:\Users\79833\source\repos\LabForTesting\LabForTesting\obj\Debug\net6.0\ref\LabForTesting.dll
